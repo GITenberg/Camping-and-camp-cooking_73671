@@ -1,0 +1,42 @@
+_repo: Camping-and-camp-cooking_73671
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Bosworth, Leslie F.
+    gutenberg_agent_id: '57173'
+    url: http://www.gutenberg.org/2009/agents/57173
+creator:
+  author:
+    agent_name: Bates, Frank A.
+    aliases:
+    - Bates, F. A.
+    - Bates, Frank Amasa
+    - Bates, Matasiso
+    birthdate: 1858
+    deathdate: 1915
+    gutenberg_agent_id: '56918'
+    url: http://www.gutenberg.org/2009/agents/56918
+description: ''
+gutenberg_issued: '2024-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73671'
+language: en
+pgterms:marc904: https://books.google.com/books?id=pmLzAAAAMAAJ&printsec=frontcover&dq=camping+and+camp+cooking&hl=en&newbks=1&newbks_redir=0&sa=X&ved=2ahUKEwjE1a-itpmDAxV3kiYFHWpYBzoQ6AF6BAgMEAI#v=onepage&q=camping%20and%20camp%20cooking&f=false
+pgterms:marc905: 20231218084009batesmatas
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Tim Miller, Joeri de Ruiter and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from scanned images of public
+  domain material from the Google Books project.)
+publication_note: '  $aBoston :$bThe Ball Publishing Co., $c1909, pubdate 1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping'
+- !lcsh 'Outdoor cooking'
+- !lcc 'SK'
+- GITenberg
+title: Camping and camp cooking
+url: http://www.gutenberg.org/ebooks/73671
