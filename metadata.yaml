@@ -5,6 +5,9 @@ contributor:
     agent_name: Bosworth, Leslie F.
     gutenberg_agent_id: '57173'
     url: http://www.gutenberg.org/2009/agents/57173
+covers:
+- cover_type: archival
+  image_path: 73671-h/images/cover_small.jpg
 creator:
   author:
     agent_name: Bates, Frank A.
@@ -17,6 +20,8 @@ creator:
     gutenberg_agent_id: '56918'
     url: http://www.gutenberg.org/2009/agents/56918
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73671#Camping-and-camp-cooking
 gutenberg_issued: '2024-05-22'
 gutenberg_type: Text
 identifiers:
